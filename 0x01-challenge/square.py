@@ -4,6 +4,7 @@
     Path: /square.py
 """
 
+
 class Square():
     """ define class 'Square' """
     width = 0
